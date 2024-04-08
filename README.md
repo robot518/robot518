@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://www.zhihu.com/people/chen-ye-85-82"><img width="32px" alt="Dev.to" title="robot518 Dev.to" src="https://i.imgur.com/71YSD3L.png"></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/%E4%B8%9A-%E9%99%88-4ab9a5301/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="https://www.linkedin.com/in/ye-chen-4ab9a5301/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robot518&label=Profile%20views&color=0e75b6&style=flat" alt="robot518" /> </p>
