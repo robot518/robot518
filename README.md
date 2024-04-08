@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm robot518</h1>
-🔭 I'm currently looking for a job
+<h1 align="center">Hi 👋, I'm robot518, a freelancer</h1>
 <p align="center">
   <!-- Typing SVG by robot518 - https://github.com/robot518/readme-typing-svg -->
   <a href="https://github.com/robot518/readme-typing-svg">
