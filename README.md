@@ -21,8 +21,8 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/robot518?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/robot518?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/robot518?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/robot518/githubviewers">
-    <img alt="views" title="GitHub profile views" src="http://ceshi.robot518.com/githubviewers/"/></a>
+<!--   <a href="https://github.com/robot518/githubviewers">
+    <img alt="views" title="GitHub profile views" src="http://ceshi.robot518.com/githubviewers/"/></a> -->
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=robot518&show_icons=true&locale=en&layout=compact" alt="robot518" /></p>
